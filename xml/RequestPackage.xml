@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="GB18030"?>
+<Package>
+    <OperatorID>1</OperatorID>
+    <Data>
+        <Unit>
+            <Region>
+                <ab>s</ab>
+                <cd>d</cd>
+            </Region>
+            <UnitName></UnitName>
+            <UnitPaperNo></UnitPaperNo>
+            <UnitTaxNo></UnitTaxNo>
+            <Contact></Contact>
+            <Phone></Phone>
+            <ValidPeriod></ValidPeriod>
+        </Unit>
+    </Data>
+</Package>
